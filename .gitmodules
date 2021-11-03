@@ -1,0 +1,3 @@
+[submodule "hasura-backend-plus"]
+	path = hasura-backend-plus
+	url = git@github.com:eingress/hasura-backend-plus.git
