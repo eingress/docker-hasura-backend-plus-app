@@ -1,1 +1,1 @@
-# Docker Hasura Backend Plus
+# Docker Hasura Backend Plus App
